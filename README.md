@@ -2,7 +2,7 @@
 <h3>ENTER YOUR NAME:SYED ADIL BASHA</h3>
 <h3>ENTER YOUR REGISTER NO:212221043008</h3>
 <h3>EX. NO:05</h3>
-<h3>DATE:04-05-2024</h3>
+<h3>DATE:12-04-2024</h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
